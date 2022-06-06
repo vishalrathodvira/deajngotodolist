@@ -1,1 +1,1 @@
-web:gunicorn django-toto-list.wsgi
+web:gunicorn django-todo-list.wsgi
